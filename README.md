@@ -23,6 +23,7 @@
 
   ## Usage
   SneakerStreets is still in progress and the products displayed on the website are taken from offspring.co.uk
+  ### This site does not sell any products.
 
   ## License
   The Project is under the MIT licencse.
